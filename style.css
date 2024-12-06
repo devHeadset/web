@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+
+body {
+ font-family: "JetBrains Mono", monospace;
+ background-color: #1e1e2e;
+ color: #cdd6f4;
+ text-align: center;
+ font-size: 27px;
+}
+
+.links {
+  text-align: center; 
+  margin-top: 20px; 
+}
+
+.links table {
+  border-spacing: 0;
+  margin: 0 auto; /* Centers the table */
+}
+
+
+.links a {
+  color: #cdd8f4;  /* Adjust based on your theme */
+  text-decoration: none; /* Removes underline */
+}
+.links a:hover {
+  color: ##cdd6f4; /* Lighter tone on hover */
+}
